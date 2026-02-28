@@ -2,6 +2,8 @@
 
 ![Main figure](images/pipeline.png)
 
+![Paper](https://openaccess.thecvf.com/content/WACV2026/html/Roygaga_Understanding_Human-Like_Biases_in_VLMs_via_Subjective_Face_Analytics_WACV_2026_paper.html) | ![Video](https://www.youtube.com/watch?v=4385VVSS66Q)
+
 ## Abstract
 
 Vision-Language Models (VLMs) effectively integrate visual and textual information, often relying on shared embedding spaces to align modalities. However, the extent to which these spaces capture complex, subjective human judgments, such as perceived facial trustworthiness, and whether they replicate associated human social biases, remains underexplored. This paper investigates the representation of subjective face attributes within VLM embedding spaces, examining whether these representations encode human-like biases and assessing their interpretability. Using probing techniques on face datasets annotated with human judgments, we analyze the structure of VLM embeddings. Our findings demonstrate that similarity scores between face image and textual description in the VLM embedding space align with human ratings of subjective attributes, and crucially, these representations exhibit correlations and demographic disparities mirroring known biases in human social perception. We also show that the use of variable context via face and attribute-specific captions can provide increased diagnostic value for revealing and mitigating bias, by increasing the alignment of the VLM embedding space with human impressions. Interpreting the embedded social biases highlights the need for critical evaluation and bias-aware development of VLMs to mitigate the risk of perpetuating harmful stereotypes in downstream applications that involve Human-AI interaction.
@@ -150,3 +152,4 @@ If you use this code or our findings in your research, please cite our paper:
 
 
 ```
+
