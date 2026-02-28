@@ -2,7 +2,7 @@
 
 ![Main figure](images/pipeline.png)
 
-![Paper](https://openaccess.thecvf.com/content/WACV2026/html/Roygaga_Understanding_Human-Like_Biases_in_VLMs_via_Subjective_Face_Analytics_WACV_2026_paper.html) | ![Video](https://www.youtube.com/watch?v=4385VVSS66Q)
+[Paper](https://openaccess.thecvf.com/content/WACV2026/html/Roygaga_Understanding_Human-Like_Biases_in_VLMs_via_Subjective_Face_Analytics_WACV_2026_paper.html) | [Video](https://www.youtube.com/watch?v=4385VVSS66Q)
 
 ## Abstract
 
@@ -152,4 +152,5 @@ If you use this code or our findings in your research, please cite our paper:
 
 
 ```
+
 
