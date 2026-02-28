@@ -140,12 +140,13 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 If you use this code or our findings in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{Roygaga2026Understanding,
+@inproceedings{roygaga2026understanding,
   title={Understanding Human-Like Biases in VLMs via Subjective Face Analytics},
   author={Roygaga, Chaitanya and Bharati, Aparna},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  year={2026},
-  month={March},
-  pages={1-10}
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={514--526},
+  year={2026}
 }
+
+
 ```
