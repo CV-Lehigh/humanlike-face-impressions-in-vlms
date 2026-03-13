@@ -1,4 +1,4 @@
-# Understanding Human-Like Biases in VLMs via Subjective Face Analytics
+# [WACV 2026] Understanding Human-Like Biases in VLMs via Subjective Face Analytics
 
 ![Main figure](images/pipeline.png)
 
